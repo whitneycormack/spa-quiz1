@@ -1,0 +1,43 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "color": "FireBrick",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+
+    {
+      "make": "Cadillac",
+      "model": "CTS",
+      "year": "2009",
+      "price": "15000",
+      "color": "Black",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+
+    {
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2010",
+      "price": "18999",
+      "color": "Silver",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": "2001",
+      "price": "800",
+      "color": "Purple",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
