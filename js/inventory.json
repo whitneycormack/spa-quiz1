@@ -15,9 +15,9 @@
       "model": "CTS",
       "year": "2009",
       "price": "15000",
-      "color": "Black",
+      "color": "blue",
       "purchased": false,
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "description": "Betty The Beast. The name says it all."
     },
 
     {
@@ -27,7 +27,7 @@
       "price": "18999",
       "color": "Silver",
       "purchased": false,
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "description": "Great deal on a great car!"
     },
 
     {
@@ -37,7 +37,7 @@
       "price": "800",
       "color": "Purple",
       "purchased": false,
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "description": "The Purple People Eater will never let you down."
     }
   ]
 }

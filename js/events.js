@@ -9,7 +9,7 @@ var CarLot = (function (oldCarLot) {
     for (var i = 0; i < cars.length; i++) {
       cars[i].addEventListener("click", function () {
         var car = event.currentTarget;
-        var background = "#c6fdf4";
+        var background = "#d3d3d3";
         oldCarLot.border(car, background);
       });
     }
